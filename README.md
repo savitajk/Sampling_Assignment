@@ -6,3 +6,4 @@
 ### *<a href="https://github.com/AnjulaMehto/Sampling_Assignment/blob/main/Creditcard_data.csv"> Click Here</a> for Dataset
 ## **2. Techniques to deal with Imbalanced classes in Machine Learning**
 ### *<a href="https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/?"> Click Here </a> 
+## **3. Explore "Sampling_Assignment.pdf" for more information**
